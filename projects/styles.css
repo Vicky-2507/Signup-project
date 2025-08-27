@@ -1,0 +1,40 @@
+body{
+    background-color: cornflowerblue;
+  
+}
+.regform{
+    width: 650px;
+    margin: 250px auto;
+    padding: 10px 20px 30px;
+    background-color: white; 
+    font-size: 20px;
+    border-radius: 6px;
+}
+.regform h2 {
+    color: black;
+
+}
+.regform textlable {
+    display: block;
+    padding: auto;
+    text-decoration: underline;
+}
+.input input {
+    width: auto;
+    font-size:1.2em;
+    border-radius: 6px;
+    padding: 5px 10px ;
+    box-sizing: border-box;
+    margin: 5px 0px 10px;
+}
+input:focus {
+    background-color:rgb(240, 236, 236);
+}
+
+button{
+    background-color:cornflowerblue;
+    font-size: 12px;
+    margin-top: 12px;
+    padding: 10px 25px;
+    border-radius: 6px;
+}
